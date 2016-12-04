@@ -1,0 +1,29 @@
+body {
+	background-color:#F98B60;
+}
+
+
+p.outset {border-style: outset;}
+
+
+.container-intro {
+	font-family: Shift;
+	font-size: 15px;
+}
+
+.nav-link  {
+	font size:20px;
+	}
+
+.container-more {
+	font-family: calibri;
+	font-size: 15px;
+}
+
+.white {
+	color:white;
+}
+
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+}
